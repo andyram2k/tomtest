@@ -6,6 +6,8 @@ tom's poo file
 
 body {
 background: blue;
+text-decoration: underline;
+width: 980px auto;
 }
 
 
