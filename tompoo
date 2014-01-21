@@ -16,3 +16,7 @@ andy editing css
 ul {
 color: red;
 }
+
+tr {
+border-bottom: #dfdfdf 1px solid;
+}
